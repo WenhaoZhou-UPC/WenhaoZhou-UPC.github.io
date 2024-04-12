@@ -9,7 +9,7 @@ permalink: /about/
 ### More Information
 
 QQ：1545894710 欢迎找我交流
-wechat:+86 15621040791 wechatID:minicoconut
+//wechat:+86 15621040791 wechatID:minicoconut
 
 ### Contact me
 
