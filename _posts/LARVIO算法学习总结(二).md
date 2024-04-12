@@ -1,8 +1,6 @@
 ---
-tags: [SLAM]
-title: LARVIO算法学习总结(二)
-created: '2024-04-11T14:03:11.168Z'
-modified: '2024-04-11T14:05:12.089Z'
+layout: post
+title: 2024-4-1-LARVIO算法学习总结(二)
 ---
 
 
