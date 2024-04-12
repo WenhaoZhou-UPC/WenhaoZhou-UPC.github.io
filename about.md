@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+欢迎访问wenhaoZhou-NWPU的blog，let's do something meaningful！
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+QQ：1545894710 欢迎找我交流
+wechat:+86 15621040791 wechatID:minicoconut
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zhouwenhao@mail.nwpu.edu.cn](mailto:email@domain.com)
