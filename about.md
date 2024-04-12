@@ -8,7 +8,8 @@ permalink: /about/
 
 ### More Information
 
-QQ：1545894710 欢迎找我交流   &emsp;&emsp;&emsp;&emsp;wechat:+86 15621040791 wechatID:minicoconut
+QQ：1545894710 欢迎找我交流   &emsp;&emsp;&emsp;&emsp;
+wechat:+86 15621040791 wechatID:minicoconut
 
 ### Contact me
 
